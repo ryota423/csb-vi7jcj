@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://ryota423.github.io/csb-vi7jcj/static/js/main.2405d247.chunk.js",
+    "main.js.map": "https://ryota423.github.io/csb-vi7jcj/static/js/main.2405d247.chunk.js.map",
+    "runtime-main.js": "https://ryota423.github.io/csb-vi7jcj/static/js/runtime-main.37ef97ef.js",
+    "runtime-main.js.map": "https://ryota423.github.io/csb-vi7jcj/static/js/runtime-main.37ef97ef.js.map",
+    "static/js/2.cb21b4b0.chunk.js": "https://ryota423.github.io/csb-vi7jcj/static/js/2.cb21b4b0.chunk.js",
+    "static/js/2.cb21b4b0.chunk.js.map": "https://ryota423.github.io/csb-vi7jcj/static/js/2.cb21b4b0.chunk.js.map",
+    "index.html": "https://ryota423.github.io/csb-vi7jcj/index.html",
+    "static/js/2.cb21b4b0.chunk.js.LICENSE.txt": "https://ryota423.github.io/csb-vi7jcj/static/js/2.cb21b4b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ef97ef.js",
+    "static/js/2.cb21b4b0.chunk.js",
+    "static/js/main.2405d247.chunk.js"
+  ]
+}
